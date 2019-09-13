@@ -1,0 +1,37 @@
+module.exports = { 
+    bitcoint:'Bitcoint',
+
+    lastPrice:'Последняя цена',
+    change:'Изменение за 24ч',
+
+    changeMarket:'Изменение',
+    // high:'Макс за 24ч',
+    mobileHigh:'Макс за',
+    mobileLow:'Мин за',
+    low:'Мин за 24ч',
+    volume:'Объем за 24 час',
+    mobileVolume:'Объем за',
+    volumeMarket:'Объем',
+    group:'Группы ',
+    total:'Всего',
+    decimals:'Десятичные',
+    buy:'Купить',
+    price : 'Цена ',
+    sell :'Продать',
+    recentMarketActivity :'Recent Market Activity',
+    Pair: 'Пара',
+    Coin: 'Монета',
+    LastPrice :'Последняя цена',
+
+    Change:'Изменение за 24ч',
+    High:'Макс за 24ч',
+    Low:'Мин за 24ч',
+    Volume :'Объем за 24 часа',
+    orderHistory :'История торгов',
+    amount : 'Кол-во',
+    search:'Поиск',
+    freeTradingQuota:'Квота торговой комиссии',
+    setText:'Набор',
+    detail:'Деталь',
+    YourTradingPower:'Ваш Trading Power'
+};

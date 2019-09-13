@@ -1,0 +1,23 @@
+module.exports = { 
+	stake: "Stake",
+    enter: "Enter amount",
+    available: "Available",
+    staked: "Staked",
+    point: "Point",
+    coin: "Coin",
+    action: "Action",
+    unstake: "Unstake",
+    date : 'Date',
+    pair : 'Pair',
+    side : 'Side',
+    price : 'Price',
+    filled : 'Filled',
+    amount : 'Amount',
+    operation : 'Operation',
+    unfreezeTime:'Unstake Time',
+    comfirm:'Are yor sure you want Unlock Ztr ? ',
+    ok:'OK',
+    cancel:'Cancel',
+    placeholderStaked:'Please enter amount to stake',
+    canceled:'Canceled'
+};
